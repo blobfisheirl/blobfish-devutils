@@ -6,7 +6,7 @@
 
     <groupId>pe.blobfish</groupId>
     <artifactId>devutils</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <!-- TODO publish it to one blobfish server, create a simple Maven repository in my server, the lighter the best, it is a really good chance to begin to provide software publicly. -->
 
